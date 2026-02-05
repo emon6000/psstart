@@ -1,0 +1,1 @@
+{"functions":[{"bundler":"zisi","buildData":{"runtimeAPIVersion":1},"mainFile":"D:\\pernstack\\day19\\functions\\api.js","name":"api","priority":10,"runtimeVersion":"nodejs24.x","path":"D:\\pernstack\\day19\\.netlify\\functions\\api.zip","runtime":"js"}],"system":{"arch":"x64","platform":"win32"},"timestamp":1770306437537,"version":1}
