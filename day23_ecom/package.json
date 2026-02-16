@@ -1,0 +1,28 @@
+{
+  "name": "day23_ecom",
+  "version": "1.0.0",
+  "description": "Ecommerce Mern stack project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "nodejs",
+    "express",
+    "mongodb",
+    "mongoose",
+    "mern"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.1"
+  }
+}
